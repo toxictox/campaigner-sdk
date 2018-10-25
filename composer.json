@@ -8,6 +8,7 @@
             "email": "tox1ctox@mail.ru"
         }
     ],
+    "prefer-stable": true,
     "minimum-stability": "dev",
     "require": {
 	"php": ">=5.3.0"
